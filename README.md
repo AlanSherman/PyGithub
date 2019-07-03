@@ -8,12 +8,6 @@
 [![Open Source Helpers](https://www.codetriage.com/pygithub/pygithub/badges/users.svg)](https://www.codetriage.com/pygithub/pygithub)
 [![codecov](https://codecov.io/gh/PyGithub/PyGithub/branch/master/graph/badge.svg)](https://codecov.io/gh/PyGithub/PyGithub)
 
-PyGitHub is a Python (2 and 3) library to access the [GitHub API v3] and [Github Enterprise API v3].
-This library enables you to manage [GitHub] resources such as repositories, user profiles, and organizations in your Python applications.
-
-[GitHub API v3]: https://developer.github.com/v3
-[Github Enterprise API v3]: https://developer.github.com/enterprise/2.13/v3/
-[GitHub]: https://github.com
 
 ## Install
 
